@@ -7,7 +7,6 @@
 }
 
 .carousel-caption{
-    bottom: 300px;
     color: black;
 }
 
@@ -23,9 +22,19 @@
     font-size: 18pt;
     letter-spacing: 1px;
     text-transform: uppercase;
+    height: 40px;
+}
+
+.navbar-light .navbar-brand:hover{
+    font-size: 20pt;
 }
 
 .nav-item{
     font-weight: bold;
     margin-left: 5px;
+    height: 40px;
+}
+
+.nav-item:hover{
+    font-size: 17pt;
 }
