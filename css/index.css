@@ -1,0 +1,31 @@
+
+.carousel-item{
+    height: 100vh;
+    min-height: 300px;
+    background: no-repeat center center scroll;
+    background-size: cover;
+}
+
+.carousel-caption{
+    bottom: 300px;
+    color: black;
+}
+
+.carousel-caption h3{
+    font-size: 25pt;
+    padding: 5px;
+    letter-spacing: 3px;
+    text-transform: uppercase;
+    margin: 30px;
+}
+
+.navbar-light .navbar-brand{
+    font-size: 18pt;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+}
+
+.nav-item{
+    font-weight: bold;
+    margin-left: 5px;
+}
